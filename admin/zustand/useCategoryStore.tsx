@@ -1,7 +1,8 @@
 import { create } from "zustand";
 
 // Set domain of URL to avoid from complexity
-const domain = "http://localhost:3006"
+// const domain = "http://localhost:3006"
+const domain = "https://blog-app-server-ecru.vercel.app"
 // const domain = "https://week-7-blogia.vercel.app"
 
 

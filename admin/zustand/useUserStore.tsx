@@ -1,7 +1,8 @@
 'use client'
 import { create } from 'zustand'
 
-const domain: string = "http://localhost:3006"
+// const domain: string = "http://localhost:3006"
+const domain = "https://blog-app-server-ecru.vercel.app"
 // const domain: string = "https://week-7-blogia.vercel.app"
 
 interface UserState {
